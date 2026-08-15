@@ -1,1 +1,0 @@
-# Public snapshot note

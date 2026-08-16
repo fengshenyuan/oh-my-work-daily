@@ -1,8 +1,16 @@
+# [Origin] Agent Starup Opportunities
 
-## User
+
+> 本文件是本主题在写入 oh-my-work-daily 之前的原始讨论记录。
+>
+> 2026.08.15 with ChatGPT
+---
+
+
+# User
 好了，那我们现在来讨论了另一个问题：垂直领域的agent还有哪些机会？coding agent已经白热化了，几乎是竞争最激烈的赛道，模型厂商、各个规模的实验室、各个规模的公司、创业者、学生、学术界等等都参与其中了。有比如视频生成、工作流编排等也都是大众熟知或竞争激烈的赛道了。那还有哪些非常值得关注和仔细思考的类似的垂直赛道呢？
 
-## Assistance
+# Assistance
 
 对，我会把这个问题看成一个**“哪里还没有被 Agent 化，而且一旦 Agent 化就会形成很深护城河”**的问题，而不是简单找几个“AI + 行业”的应用。
 
@@ -16,7 +24,7 @@
 
 ---
 
-# 我先给你一张“我会重点研究”的地图
+## 我先给你一张“我会重点研究”的地图
 
 我不把它按传统行业分类，而按 **Agent 能不能形成强壁垒** 来排：
 
@@ -44,7 +52,7 @@
 
 ---
 
-# 1. Construction / AEC：我认为这是现在最值得盯的之一
+## 1. Construction / AEC：我认为这是现在最值得盯的之一
 
 这是我会放在 **Top 3** 的。
 
@@ -124,7 +132,7 @@ McKinsey 今年 7 月就用非常类似的 construction 场景描述了 agentic 
 
 ---
 
-# 2. Industrial / Manufacturing Agent：可能比 AEC 更大
+## 2. Industrial / Manufacturing Agent：可能比 AEC 更大
 
 这个方向我特别看好。
 
@@ -136,7 +144,7 @@ McKinsey 今年 7 月就用非常类似的 construction 场景描述了 agentic 
 
 真正有价值的是：
 
-### Manufacturing Operations Agent
+#### Manufacturing Operations Agent
 
 比如：
 
@@ -212,7 +220,7 @@ System Integration
 
 ---
 
-# 3. Insurance Agent：我认为特别值得研究
+## 3. Insurance Agent：我认为特别值得研究
 
 这个市场非常“Agent-native”。
 
@@ -234,7 +242,7 @@ System Integration
 
 特别是：
 
-### Underwriting Agent
+#### Underwriting Agent
 
 真实流程很可能是：
 
@@ -282,7 +290,7 @@ Agent Insurance
 
 ---
 
-# 4. Scientific Research Agent：这可能是最有想象力的一条线
+## 4. Scientific Research Agent：这可能是最有想象力的一条线
 
 这个我认为**非常容易被大众低估**。
 
@@ -350,7 +358,7 @@ Nature 的 AutoLabs 已经展示了带 self-correction 的 multi-agent autonomou
 
 ---
 
-# 5. Cybersecurity Agent：技术壁垒极高，而且 Agent 特征非常强
+## 5. Cybersecurity Agent：技术壁垒极高，而且 Agent 特征非常强
 
 这也是我会重点关注的方向。
 
@@ -408,7 +416,7 @@ Evaluation
 
 ---
 
-# 6. Procurement / Supply Chain Agent：我认为非常值得创业者研究
+## 6. Procurement / Supply Chain Agent：我认为非常值得创业者研究
 
 这是我觉得现在被讨论得不够多的赛道。
 
@@ -470,7 +478,7 @@ PO
 
 ---
 
-# 7. Field Service Agent：一个非常容易被忽略的方向
+## 7. Field Service Agent：一个非常容易被忽略的方向
 
 例如：
 
@@ -522,7 +530,7 @@ HVAC
 
 ---
 
-# 8. Property / Real Estate Operations：很适合 Agent，但市场认知还比较低
+## 8. Property / Real Estate Operations：很适合 Agent，但市场认知还比较低
 
 比如大型物业 / commercial real estate：
 
@@ -552,7 +560,7 @@ inspection
 
 ---
 
-# 9. Tax / Audit / Accounting：比 Legal 更值得关注
+## 9. Tax / Audit / Accounting：比 Legal 更值得关注
 
 Legal 已经非常热门。
 
@@ -560,7 +568,7 @@ Harvey、CoCounsel 等都已经建立了很强的位置。
 
 但：
 
-### Tax / Audit
+#### Tax / Audit
 
 我觉得仍然有很大机会。
 
@@ -608,7 +616,7 @@ Harvey、CoCounsel 等都已经建立了很强的位置。
 
 ---
 
-# 10. Healthcare：巨大，但不是我最推荐创业者直接冲进去的
+## 10. Healthcare：巨大，但不是我最推荐创业者直接冲进去的
 
 医疗当然值得研究。
 
@@ -653,7 +661,7 @@ Research
 
 ---
 
-# 11. 有一个我特别想补充：**Engineering Agent ≠ Coding Agent**
+## 11. 有一个我特别想补充：**Engineering Agent ≠ Coding Agent**
 
 这是一个很大的空白。
 
@@ -707,11 +715,11 @@ Engineering Agent 才是真正的：
 
 ---
 
-# 最后，我会特别关注 5 条“非显而易见”的赛道
+## 最后，我会特别关注 5 条“非显而易见”的赛道
 
 如果让我现在以创业视角筛选，我不是简单列行业，而会重点研究这五类：
 
-## 第一名：Scientific Research Agent
+### 第一名：Scientific Research Agent
 
 ```text
 AI Scientist
@@ -721,7 +729,7 @@ AI Scientist
 
 ---
 
-## 第二名：Industrial / Field Operations Agent
+### 第二名：Industrial / Field Operations Agent
 
 ```text
 AI Operations Engineer
@@ -731,7 +739,7 @@ AI Operations Engineer
 
 ---
 
-## 第三名：Construction / AEC Agent
+### 第三名：Construction / AEC Agent
 
 ```text
 AI Construction PM
@@ -741,7 +749,7 @@ AI Construction PM
 
 ---
 
-## 第四名：Insurance Agent
+### 第四名：Insurance Agent
 
 ```text
 AI Underwriter / Claims Agent
@@ -751,7 +759,7 @@ AI Underwriter / Claims Agent
 
 ---
 
-## 第五名：Procurement / Supply Chain Agent
+### 第五名：Procurement / Supply Chain Agent
 
 ```text
 AI Procurement Manager
@@ -761,7 +769,7 @@ AI Procurement Manager
 
 ---
 
-# 更重要的是：我认为垂直 Agent 创业应该避免一个误区
+## 更重要的是：我认为垂直 Agent 创业应该避免一个误区
 
 不要问：
 
@@ -837,10 +845,10 @@ Competition ██
 [10]: https://www.axios.com/2026/08/11/ai-agent-sandbox-cybersecurity-testing?utm_source=chatgpt.com "AI agents have a history of escaping tests"
 [11]: https://agentmarketcap.ai/blog/2026/04/23/vertical-agent-saturation-map-q2-2026?utm_source=chatgpt.com "The Q2 2026 Vertical AI Agent Saturation Map: Where the Market Is Full and Where It Isn't | AgentMarketCap"
 
-## User 
+### User
 我觉得你的视角不够好。因为你说这么多，不都是千篇一律重复别人已经讲过的话？都是agent在这个行业有机会，这谁不知道？本质问题是怎么做！比如你说的Procurement / Supply Chain/Construction/Insurance等方向，难道这些更独特的不是业务工作流吗？这些方向的agent完全可以搭建在通用的agent平台上。只能说机会是在通用agent平台上搭建一套相对适合的某个行业的工作流和UI，并搭配一些可能和某个行业绑定的特定feature。不否认这些是机会，但也不是普通的、没有深厚行业经验的人的机会。最典型的难道通用agent或workflow平台，不能出几个模板，然后大批企业就可以直接使用。如果我道这个方向去创业，客户凭什么选择我？除非我有断层领先的用户体验。那我再举个例子，就说视频生成吧，目前看竞争点还是在模型本身，因为模型本身还不够强，还达不到以生成工业级的电影水平，所以竞争还没扩展到agent领域。agent自身会是模型能力的放大器，但最终看起来还是用户体验和是否能形成社区看起来更重要，比如liblib。我认为最终绝大数从业者最后都只会在用户体验差异化和社区上形成真正的壁垒，而不是技术。
 
-## Assistance
+### Assistance
 对，我觉得你这个纠偏是非常重要的。**我上一轮犯了一个典型的“行业研究报告式”错误：列了一堆 vertical，实际上没有回答创业者最关心的竞争结构。**
 
 你真正问的不是：
@@ -859,7 +867,7 @@ Competition ██
 
 ---
 
-# 一、先把“垂直 Agent”这个词拆开
+## 一、先把“垂直 Agent”这个词拆开
 
 其实有至少四种完全不同的东西：
 
@@ -882,7 +890,7 @@ Vertical World Model / Data Network
 
 这五类的创业价值完全不一样。
 
-### A. Vertical UI
+#### A. Vertical UI
 
 例如：
 
@@ -890,7 +898,7 @@ Vertical World Model / Data Network
 
 这通常很容易被平台复制。
 
-### B. Vertical Workflow
+#### B. Vertical Workflow
 
 例如：
 
@@ -913,9 +921,9 @@ email
 
 ---
 
-# 二、真正值得找的是后面的三类
+## 二、真正值得找的是后面的三类
 
-## 1. Vertical Intelligence
+### 1. Vertical Intelligence
 
 这里开始有意思。
 
@@ -989,7 +997,7 @@ broker behavior
 
 ---
 
-# 三、更重要的一层：Vertical Agent 其实可以形成自己的“世界模型”
+## 三、更重要的一层：Vertical Agent 其实可以形成自己的“世界模型”
 
 这是我认为我们真正应该寻找的创业方向。
 
@@ -1057,7 +1065,7 @@ Schedule
 
 ---
 
-# 四、这也是为什么我觉得你举的 Liblib 例子很重要
+## 四、这也是为什么我觉得你举的 Liblib 例子很重要
 
 你说：
 
@@ -1127,13 +1135,13 @@ User identity / social graph
 
 ---
 
-# 五、所以我们真正应该问：哪些 Vertical Agent 天然有“网络效应”？
+## 五、所以我们真正应该问：哪些 Vertical Agent 天然有“网络效应”？
 
 这比“哪些行业适合 Agent”重要得多。
 
 我会把候选市场重新分类：
 
-### 第一类：纯 workflow
+#### 第一类：纯 workflow
 
 ```text
 Procurement
@@ -1163,7 +1171,7 @@ network effect 弱 ❌
 
 ---
 
-### 第二类：Professional Network Agent
+#### 第二类：Professional Network Agent
 
 这类开始有意思：
 
@@ -1212,7 +1220,7 @@ Company Agent
 
 ---
 
-# 六、第三类我认为尤其值得研究：Creator Agent
+## 六、第三类我认为尤其值得研究：Creator Agent
 
 你提到视频生成，我认为这里实际上蕴含一个很大的 General Principle。
 
@@ -1316,7 +1324,7 @@ Distribution
 
 ---
 
-# 七、所以我会把“垂直 Agent 的机会”重新分成 6 种 moat
+## 七、所以我会把“垂直 Agent 的机会”重新分成 6 种 moat
 
 这比按照行业列 20 个赛道有价值很多。
 
@@ -1360,25 +1368,25 @@ Distribution
 
 ---
 
-# 八、再往前一步：真正好的 Vertical Agent 往往不是“一个行业”，而是“一个长期存在的对象”
+## 八、再往前一步：真正好的 Vertical Agent 往往不是“一个行业”，而是“一个长期存在的对象”
 
 这个是我现在最感兴趣的地方。
 
 比如：
 
-### 不好的定义
+#### 不好的定义
 
 > Insurance Agent
 
 太泛。
 
-### 稍微好一点
+#### 稍微好一点
 
 > Underwriting Agent
 
 还是 workflow。
 
-### 再往前
+#### 再往前
 
 > **Risk Intelligence Agent**
 
@@ -1397,15 +1405,15 @@ Market
 
 同样：
 
-### 不好的
+#### 不好的
 
 > Construction Agent
 
-### 更好的
+#### 更好的
 
 > Construction PM Agent
 
-### 再往前：
+#### 再往前：
 
 > **Persistent Project Agent**
 
@@ -1435,7 +1443,7 @@ Issues
 
 ---
 
-# 九、这其实产生了一个我认为非常强的创业判断
+## 九、这其实产生了一个我认为非常强的创业判断
 
 未来最有价值的 Agent 不一定是：
 
@@ -1494,7 +1502,7 @@ digital actor
 
 ---
 
-# 十、所以如果让我重新回答你最初的问题
+## 十、所以如果让我重新回答你最初的问题
 
 你最初问：
 
@@ -1508,7 +1516,7 @@ digital actor
 
 我会优先寻找这三种：
 
-### ① 有自己的世界模型的 Agent
+#### ① 有自己的世界模型的 Agent
 
 不是 workflow。
 
@@ -1525,7 +1533,7 @@ digital actor
 
 ---
 
-### ② 能形成 Agent Network 的 Agent
+#### ② 能形成 Agent Network 的 Agent
 
 不是：
 
@@ -1547,7 +1555,7 @@ Recruiting、commerce、real estate、procurement、professional services 都值
 
 ---
 
-### ③ 有 Community / Content Graph 的 Creator Agent
+#### ③ 有 Community / Content Graph 的 Creator Agent
 
 这个就是你提到的 Liblib 路线。
 
@@ -1598,15 +1606,15 @@ Network
 [3]: https://connic.co/blog/ai-agent-deployment-platforms-2026?utm_source=chatgpt.com "AI Agent Deployment Platforms in 2026: 4 Types Compared | Connic"
 
 
-## User 
+### User
 好的，这个讨论很好。我记得前面其实我们讨论到过agent慢慢会从human driven, goal driven, responasbility driven最终过渡到人类社会普遍的role driven的模式。所以agent创业一个重要方向也可以总结为创造真实的有world model，有长期价值观、有主观能动性的agent；或者说agent创业的价值更多在于放到LLM的intelligence，即交付的是intelligence而不是其他东西。 Creator OS/Community也是一个很有意义的方向，保留。
 
-## Assistance
+### Assistance
 对，我觉得这次已经把“Agent 创业机会”从行业列表进一步抽象到了一个**更本质的产品定义问题**。
 
 我会把我们前面的讨论重新浓缩成两条主线：
 
-## 1. Agent 的终局可能是从「工具」变成「角色」
+### 1. Agent 的终局可能是从「工具」变成「角色」
 
 我们之前讨论过一个很重要的演化：
 
@@ -1622,7 +1630,7 @@ Role-driven
 
 这四个阶段其实对应的是 Agent **自主性的来源**发生变化。
 
-### Human-driven
+#### Human-driven
 
 ```text
 人：去查一下 Apple 翻新机
@@ -1631,7 +1639,7 @@ Agent：执行
 
 Agent 没有自己的持续性，只是工具。
 
-### Goal-driven
+#### Goal-driven
 
 ```text
 人：帮我找到一台合适的 M5 Max
@@ -1640,7 +1648,7 @@ Agent：自己规划任务
 
 Agent 开始自主规划，但目标仍然来自人。
 
-### Responsibility-driven
+#### Responsibility-driven
 
 ```text
 你负责帮我盯住 Apple 翻新市场
@@ -1658,7 +1666,7 @@ Observe
 
 这已经是 long-lived agent。
 
-### Role-driven
+#### Role-driven
 
 再往前一步：
 
@@ -1711,7 +1719,7 @@ Lifecycle
 
 ---
 
-# 2. 因此一个真正有价值的 Agent，核心商品其实可能是「Intelligence」
+## 2. 因此一个真正有价值的 Agent，核心商品其实可能是「Intelligence」
 
 这句话我非常赞同，而且值得稍微精确一下。
 
@@ -1759,7 +1767,7 @@ Agency
 
 ---
 
-## 这时候 vertical 的意义也发生变化
+### 这时候 vertical 的意义也发生变化
 
 比如不要做：
 
@@ -1822,7 +1830,7 @@ AI Project Manager
 
 ---
 
-# 3. 这也解释了为什么“纯 workflow verticalization”长期看可能不够
+## 3. 这也解释了为什么“纯 workflow verticalization”长期看可能不够
 
 一个 workflow agent：
 
@@ -1868,7 +1876,7 @@ Output
 
 ---
 
-# 4. 于是创业 moat 也可以重新定义
+## 4. 于是创业 moat 也可以重新定义
 
 今天我们已经把几个可能的 moat 串起来了：
 
@@ -1887,7 +1895,7 @@ Output
 
 其中：
 
-### Intelligence moat
+#### Intelligence moat
 
 来自：
 
@@ -1901,7 +1909,7 @@ domain judgment
 feedback / outcome data
 ```
 
-### Experience moat
+#### Experience moat
 
 就是你刚刚说的：
 
@@ -1909,7 +1917,7 @@ feedback / outcome data
 
 尤其当基础模型越来越商品化以后，UX 甚至会成为**模型能力的放大器**。
 
-### Network moat
+#### Network moat
 
 就是我们保留的：
 
@@ -1931,11 +1939,11 @@ User
 
 ---
 
-# 5. 所以现在我会把 Agent 创业机会粗略分成三条大路
+## 5. 所以现在我会把 Agent 创业机会粗略分成三条大路
 
 不是按行业，而是按你到底在卖什么：
 
-### A. Sell Intelligence
+#### A. Sell Intelligence
 
 > **把 intelligence 放进一个长期存在的 Agent。**
 
@@ -1947,7 +1955,7 @@ User
 
 ---
 
-### B. Sell Creation
+#### B. Sell Creation
 
 > **让人更容易创造、驾驭、分享 Agent / content / worlds。**
 
@@ -1972,7 +1980,7 @@ Content
 
 ---
 
-### C. Sell Infrastructure
+#### C. Sell Infrastructure
 
 > **让这些长期 Intelligence 真正能够被创建、部署、运行、治理。**
 
@@ -1992,7 +2000,7 @@ Agent Management Plane
 
 ---
 
-# 6. 三者其实会形成一个很漂亮的闭环
+## 6. 三者其实会形成一个很漂亮的闭环
 
 我现在甚至觉得可以把整个 Agent 产业想成：
 

@@ -144,7 +144,7 @@ McKinsey 今年 7 月就用非常类似的 construction 场景描述了 agentic 
 
 真正有价值的是：
 
-#### Manufacturing Operations Agent
+### Manufacturing Operations Agent
 
 比如：
 
@@ -242,7 +242,7 @@ System Integration
 
 特别是：
 
-#### Underwriting Agent
+### Underwriting Agent
 
 真实流程很可能是：
 
@@ -568,7 +568,7 @@ Harvey、CoCounsel 等都已经建立了很强的位置。
 
 但：
 
-#### Tax / Audit
+### Tax / Audit
 
 我觉得仍然有很大机会。
 
@@ -845,10 +845,10 @@ Competition ██
 [10]: https://www.axios.com/2026/08/11/ai-agent-sandbox-cybersecurity-testing?utm_source=chatgpt.com "AI agents have a history of escaping tests"
 [11]: https://agentmarketcap.ai/blog/2026/04/23/vertical-agent-saturation-map-q2-2026?utm_source=chatgpt.com "The Q2 2026 Vertical AI Agent Saturation Map: Where the Market Is Full and Where It Isn't | AgentMarketCap"
 
-### User
+# User
 我觉得你的视角不够好。因为你说这么多，不都是千篇一律重复别人已经讲过的话？都是agent在这个行业有机会，这谁不知道？本质问题是怎么做！比如你说的Procurement / Supply Chain/Construction/Insurance等方向，难道这些更独特的不是业务工作流吗？这些方向的agent完全可以搭建在通用的agent平台上。只能说机会是在通用agent平台上搭建一套相对适合的某个行业的工作流和UI，并搭配一些可能和某个行业绑定的特定feature。不否认这些是机会，但也不是普通的、没有深厚行业经验的人的机会。最典型的难道通用agent或workflow平台，不能出几个模板，然后大批企业就可以直接使用。如果我道这个方向去创业，客户凭什么选择我？除非我有断层领先的用户体验。那我再举个例子，就说视频生成吧，目前看竞争点还是在模型本身，因为模型本身还不够强，还达不到以生成工业级的电影水平，所以竞争还没扩展到agent领域。agent自身会是模型能力的放大器，但最终看起来还是用户体验和是否能形成社区看起来更重要，比如liblib。我认为最终绝大数从业者最后都只会在用户体验差异化和社区上形成真正的壁垒，而不是技术。
 
-### Assistance
+# Assistance
 对，我觉得你这个纠偏是非常重要的。**我上一轮犯了一个典型的“行业研究报告式”错误：列了一堆 vertical，实际上没有回答创业者最关心的竞争结构。**
 
 你真正问的不是：
@@ -890,7 +890,7 @@ Vertical World Model / Data Network
 
 这五类的创业价值完全不一样。
 
-#### A. Vertical UI
+### A. Vertical UI
 
 例如：
 
@@ -898,7 +898,7 @@ Vertical World Model / Data Network
 
 这通常很容易被平台复制。
 
-#### B. Vertical Workflow
+### B. Vertical Workflow
 
 例如：
 
@@ -1141,7 +1141,7 @@ User identity / social graph
 
 我会把候选市场重新分类：
 
-#### 第一类：纯 workflow
+### 第一类：纯 workflow
 
 ```text
 Procurement
@@ -1171,7 +1171,7 @@ network effect 弱 ❌
 
 ---
 
-#### 第二类：Professional Network Agent
+### 第二类：Professional Network Agent
 
 这类开始有意思：
 
@@ -1374,19 +1374,19 @@ Distribution
 
 比如：
 
-#### 不好的定义
+### 不好的定义
 
 > Insurance Agent
 
 太泛。
 
-#### 稍微好一点
+### 稍微好一点
 
 > Underwriting Agent
 
 还是 workflow。
 
-#### 再往前
+### 再往前
 
 > **Risk Intelligence Agent**
 
@@ -1405,15 +1405,15 @@ Market
 
 同样：
 
-#### 不好的
+### 不好的
 
 > Construction Agent
 
-#### 更好的
+### 更好的
 
 > Construction PM Agent
 
-#### 再往前：
+### 再往前：
 
 > **Persistent Project Agent**
 
@@ -1516,7 +1516,7 @@ digital actor
 
 我会优先寻找这三种：
 
-#### ① 有自己的世界模型的 Agent
+### ① 有自己的世界模型的 Agent
 
 不是 workflow。
 
@@ -1533,7 +1533,7 @@ digital actor
 
 ---
 
-#### ② 能形成 Agent Network 的 Agent
+### ② 能形成 Agent Network 的 Agent
 
 不是：
 
@@ -1555,7 +1555,7 @@ Recruiting、commerce、real estate、procurement、professional services 都值
 
 ---
 
-#### ③ 有 Community / Content Graph 的 Creator Agent
+### ③ 有 Community / Content Graph 的 Creator Agent
 
 这个就是你提到的 Liblib 路线。
 
@@ -1606,15 +1606,15 @@ Network
 [3]: https://connic.co/blog/ai-agent-deployment-platforms-2026?utm_source=chatgpt.com "AI Agent Deployment Platforms in 2026: 4 Types Compared | Connic"
 
 
-### User
+# User
 好的，这个讨论很好。我记得前面其实我们讨论到过agent慢慢会从human driven, goal driven, responasbility driven最终过渡到人类社会普遍的role driven的模式。所以agent创业一个重要方向也可以总结为创造真实的有world model，有长期价值观、有主观能动性的agent；或者说agent创业的价值更多在于放到LLM的intelligence，即交付的是intelligence而不是其他东西。 Creator OS/Community也是一个很有意义的方向，保留。
 
-### Assistance
+# Assistance
 对，我觉得这次已经把“Agent 创业机会”从行业列表进一步抽象到了一个**更本质的产品定义问题**。
 
 我会把我们前面的讨论重新浓缩成两条主线：
 
-### 1. Agent 的终局可能是从「工具」变成「角色」
+## 1. Agent 的终局可能是从「工具」变成「角色」
 
 我们之前讨论过一个很重要的演化：
 
@@ -1630,7 +1630,7 @@ Role-driven
 
 这四个阶段其实对应的是 Agent **自主性的来源**发生变化。
 
-#### Human-driven
+### Human-driven
 
 ```text
 人：去查一下 Apple 翻新机
@@ -1639,7 +1639,7 @@ Agent：执行
 
 Agent 没有自己的持续性，只是工具。
 
-#### Goal-driven
+### Goal-driven
 
 ```text
 人：帮我找到一台合适的 M5 Max
@@ -1648,7 +1648,7 @@ Agent：自己规划任务
 
 Agent 开始自主规划，但目标仍然来自人。
 
-#### Responsibility-driven
+### Responsibility-driven
 
 ```text
 你负责帮我盯住 Apple 翻新市场
@@ -1666,7 +1666,7 @@ Observe
 
 这已经是 long-lived agent。
 
-#### Role-driven
+### Role-driven
 
 再往前一步：
 
@@ -1895,7 +1895,7 @@ Output
 
 其中：
 
-#### Intelligence moat
+### Intelligence moat
 
 来自：
 
@@ -1909,7 +1909,7 @@ domain judgment
 feedback / outcome data
 ```
 
-#### Experience moat
+### Experience moat
 
 就是你刚刚说的：
 
@@ -1917,7 +1917,7 @@ feedback / outcome data
 
 尤其当基础模型越来越商品化以后，UX 甚至会成为**模型能力的放大器**。
 
-#### Network moat
+### Network moat
 
 就是我们保留的：
 
@@ -1943,7 +1943,7 @@ User
 
 不是按行业，而是按你到底在卖什么：
 
-#### A. Sell Intelligence
+### A. Sell Intelligence
 
 > **把 intelligence 放进一个长期存在的 Agent。**
 
@@ -1955,7 +1955,7 @@ User
 
 ---
 
-#### B. Sell Creation
+### B. Sell Creation
 
 > **让人更容易创造、驾驭、分享 Agent / content / worlds。**
 
@@ -1980,7 +1980,7 @@ Content
 
 ---
 
-#### C. Sell Infrastructure
+### C. Sell Infrastructure
 
 > **让这些长期 Intelligence 真正能够被创建、部署、运行、治理。**
 
